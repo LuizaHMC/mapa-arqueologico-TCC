@@ -6,16 +6,15 @@ Editor para trabalhar com o código: [VSCode](https://code.visualstudio.com/)
 
 ### Rodando o código
 
-*Primeiro, deverá acessar a pasta frontend do projeto
+*Primeiro, deverá acessar a pasta frontend do projeto:
 $cd frontend
 
-*Dentro do frontend deverá instalar os pacotes e bibliotecas utilizando o seguinte comando
+*Dentro do frontend deverá instalar os pacotes e bibliotecas utilizando o seguinte comando:
 $npm i
 
-*Após isso, acessar a pasta backend do projeto e fazer o mesmo
-$cd backend
+*Após isso, acessar a pasta backend do projeto e fazer o mesmo:
+$cd backend e $npm i
 
-$npm i
 *Agora, será necessário acessar a plataforma [MapTiler](https://www.maptiler.com/) e criar uma conta.
 
 *Dentro da plataforma, escolher o mapa e copiar a seguinte seleção:
